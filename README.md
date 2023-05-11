@@ -1,7 +1,7 @@
 # Bem vindo à DEVinHouse <img width="180px" alt="Philips" src="ExerciciosM03S02/images/logo-phil.png"/>
 ## Módulo 03 - Semana 02
 
-Repositório criado para a elaboração dos 10 exercícios referentes a **Testes Unitários** em `Angular` essa semana. <br>
+Repositório criado para a elaboração dos 10 exercícios referentes a **Testes Unitários** em `Angular` dessa semana. <br>
 
 Para visualizar os exercícios, <a href="https://github.com/GeorgeEnriqueBravo/DEVinHouse-Modulo03-Semana02/archive/refs/heads/main.zip" target="_blank">
     clique aqui
