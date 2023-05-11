@@ -8,7 +8,7 @@ Para visualizar os exercícios, <a href="https://github.com/GeorgeEnriqueBravo/D
 </a>
 para baixa-los. <br>
 
-Após o download, abra a pasta do projeto por um terminal ou pelo CMD do computador e digite o comando `npm install` para instalar a pasta node_modules e depois digite o comando `npm test` para visualizar o resultado dos testes no seu navegador.
+Após o download, abra a pasta do projeto por um terminal ou pelo CMD do computador e digite o comando `npm install` para instalar a pasta node_modules e depois digite o comando `npm test` para carregar o resultado dos testes no seu navegador.
   
 ---
 
